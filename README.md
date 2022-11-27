@@ -1,4 +1,4 @@
-# Connect Lambda with RDS through  RDS  Proxy
+# Integrate AWS Lambda with RDS through RDS Proxy
  
 To build and deploy your application for the first time, run the following in your shell:
 ![1](https://user-images.githubusercontent.com/24683749/204129369-c4662200-32de-4ccb-82e3-99180ca7cdcb.PNG)
