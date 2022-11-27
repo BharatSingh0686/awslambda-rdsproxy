@@ -1,11 +1,15 @@
 # Connect Lambda with RDS through  RDS  Proxy
  
 To build and deploy your application for the first time, run the following in your shell:
+![1](https://user-images.githubusercontent.com/24683749/204129369-c4662200-32de-4ccb-82e3-99180ca7cdcb.PNG)
 
 ```bash
 sam build
 sam deploy --guided
 ```
+
+![20](https://user-images.githubusercontent.com/24683749/204129392-21b60084-02d6-441f-8000-85b25dac13c2.PNG)
+
  
 ## Resources
 
